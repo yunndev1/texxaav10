@@ -1,6 +1,5 @@
 {
   [
-  "8460086375:AAEELv_ahIMGF4tC4njZbEMZNbEfWTTqefo",
-  "8344544120:AAGAH6FO1_8VW0BalrmjhKZZiozeB8YM54A"
+  "8208939182:AAFiAeTesD2kinpVt4atiWyC0bJae5xqvtw"
   ]
 }
